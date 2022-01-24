@@ -1,3 +1,6 @@
-# SMGD-Main-Project
+# SMGD3335 - ILE 2
 
-This is a project repository for the lab projects of Social & Multiplayer Game Design
+---
+
+> ## INFR3335U - Social & Multiplayer Game Design
+> In-Lab Exercise 2
